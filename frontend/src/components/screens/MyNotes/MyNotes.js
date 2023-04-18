@@ -83,7 +83,7 @@ const Mynotes = () => {
                 <Accordion.Item eventKey="0">
                   <Card style={{ margin: 10 }}>
                     <Card.Header
-                      className="card-header"
+                      className="card-header border-none"
                       style={{
                         display: "flex",
                         border: "none",
