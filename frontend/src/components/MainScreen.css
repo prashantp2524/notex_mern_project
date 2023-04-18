@@ -1,0 +1,45 @@
+.mainback {
+  min-height: 93vh;
+  display: flex;
+  padding: 10px 0;
+  /* background: linear-gradient(
+    90deg,
+    rgb(31, 30, 187) 53%,
+    rgb(38, 38, 227) 86%,
+    rgb(107, 145, 209) 100%,
+    rgb(28, 26, 190) 100%
+  ); */
+  background: rgb(31, 30, 187);
+  background: linear-gradient(
+    90deg,
+    rgba(31, 30, 187, 1) 0%,
+    rgba(48, 55, 192, 1) 19%,
+    rgba(107, 145, 209, 1) 64%,
+    rgba(91, 90, 203, 1) 100%
+  );
+  color: aliceblue;
+}
+
+.page {
+  width: 100%;
+  color: black;
+}
+
+.heading {
+  font-size: 60px;
+  padding: 5px 10px;
+  color: white;
+}
+
+.buttonContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@media only screen and (max-width: 600px) {
+  .heading {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+  }
+}

@@ -1,0 +1,47 @@
+/* style={{ marginLeft: 10, marginBottom: 6 }} size="lg," */
+
+.create-btn {
+  margin-left: 10px;
+  background: linear-gradient(
+    90deg,
+    rgb(31, 30, 187) 53%,
+    rgb(38, 38, 227) 86%,
+    rgb(107, 145, 209) 100%,
+    rgb(28, 26, 190) 100%
+  );
+}
+
+@media (max-width: 450px) {
+  .create-btn {
+    margin-left: 10px;
+  }
+  .card-header {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+/* @media (max-width: 1200px) {
+  .title {
+    font-size: 80px;
+   
+  }
+} */
+/* @media (max-width: 991px) {
+  .title {
+    font-size: 70px;
+  }
+}
+@media (max-width: 768px) {
+  .title {
+    font-size: 50px;
+  }
+}
+@media (max-width: 450px) {
+  .title {
+    font-size: 40px;
+  }
+  .buttonContainer a {
+    margin-top: 10px;
+  }
+} */
