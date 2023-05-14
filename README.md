@@ -3,7 +3,24 @@
 
 ### `npm run dev`
 
-### Notex provides you one safe place for all your notes
+ The Notex website is a platform that provides a safe and secure place for users to store all their notes in one place. With Notex, users can create, edit, delete, and organize their notes in a convenient and user-friendly way.
+
+The website is built using the MERN (MongoDB, Express, React, and Node.js) stack, which is a popular web development framework known for its scalability, performance, and flexibility. Additionally, the website uses Bootstrap, a popular front-end framework that provides a range of pre-built UI components and styles to help make the site more responsive and visually appealing.
+
+The primary goal of the Notex website is to simplify note-taking for users and to provide them with a centralized location to access and manage their notes. Users can sign up for an account, create and categorize their notes, and access them from any device with an internet connection.
+
+Some of the key features of the Notex website include:
+
+Creating new notes: Users can create and save them to their accounts. They can also categorize their notes by subject or topic for easy organization.
+Editing notes: Users can edit their existing messages at any time, changing the content, formatting, or layout as needed.
+
+Deleting notes: Users can delete any notes they no longer need, freeing up space in their account for new notes.
+
+Updating profile: Users can also update their profile information, including their username, email address, and password, to ensure that their account is secure and up to date.
+
+Overall, the Notex website is an excellent solution for anyone looking for a centralized, user-friendly platform to manage their notes. Its intuitive interface and range of features make it an ideal choice for students, professionals, and anyone else who needs to keep track of important information.
+
+
 ## Landing Page
 ![landing_page](https://user-images.githubusercontent.com/95577007/232712690-53e22f35-21fc-4943-b60b-7a48827b8bd8.png)
 
